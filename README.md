@@ -15,10 +15,15 @@ Modify the current web app to include all four of the hemisphere images. Use Bea
 ## Results:
 
 
- ![hemi_image_urls.png](Resources/hemi_image_urls.png)  
+### URLs:
+
+
+ ![hemi_image_urls.png](Mars_scraping/templates/images/hemi_image_urls.png)  
  
- 
- ![mars_hemi_images.png](Resources/mars_hemi_images.png)  
+
+### Images:
+
+ ![mars_hemi_images.png](Mars_scraping/templates/images/mars_hemi_images.png)  
  
  
  
